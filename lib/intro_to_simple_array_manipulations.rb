@@ -18,7 +18,7 @@ def using_pop (string)
 end
 
 
-def pop_with_args
+def pop_with_args (array, string)
   array = ["Great Dane", "Golden Retriever", "Chihuahua", "Shiba Inu"]
   array.pop(2)
 end
