@@ -14,7 +14,7 @@ end
 def using_pop (string)
   array = ["Africa", "Asia", "Europe", "North America", "South America", "Oceania", "Antarctica"]
   array.pop
-  array_index
+  
   
 end
 
