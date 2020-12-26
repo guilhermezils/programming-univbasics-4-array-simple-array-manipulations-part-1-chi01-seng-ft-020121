@@ -14,11 +14,12 @@ end
 def using_pop (string)
   array = ["Africa", "Asia", "Europe", "North America", "South America", "Oceania", "Antarctica"]
   array.pop
+  array_index
   
 end
 
 
 def pop_with_args (array, string)
   array = ["Great Dane", "Golden Retriever", "Chihuahua", "Shiba Inu"]
-  array.pop(2)
+  array.pop
 end
